@@ -1,1 +1,0 @@
-# IT_for_Smart_City_HW
