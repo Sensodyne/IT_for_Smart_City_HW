@@ -770,11 +770,11 @@
         <ScreenOverlay id="270">
             <name>Legend</name>
             <Icon id="271">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="273">
             <Style id="278">
@@ -1545,11 +1545,11 @@
         <ScreenOverlay id="540">
             <name>Legend</name>
             <Icon id="541">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="543">
             <Style id="548">
@@ -2320,11 +2320,11 @@
         <ScreenOverlay id="810">
             <name>Legend</name>
             <Icon id="811">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="813">
             <Style id="818">
@@ -3095,11 +3095,11 @@
         <ScreenOverlay id="1080">
             <name>Legend</name>
             <Icon id="1081">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="1083">
             <Style id="1088">
@@ -3870,11 +3870,11 @@
         <ScreenOverlay id="1350">
             <name>Legend</name>
             <Icon id="1351">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="1353">
             <Style id="1358">
@@ -4645,11 +4645,11 @@
         <ScreenOverlay id="1620">
             <name>Legend</name>
             <Icon id="1621">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="1623">
             <Style id="1628">
@@ -5420,11 +5420,11 @@
         <ScreenOverlay id="1890">
             <name>Legend</name>
             <Icon id="1891">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="1893">
             <Style id="1898">
@@ -6195,11 +6195,11 @@
         <ScreenOverlay id="2160">
             <name>Legend</name>
             <Icon id="2161">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="2163">
             <Style id="2168">
@@ -6970,11 +6970,11 @@
         <ScreenOverlay id="2430">
             <name>Legend</name>
             <Icon id="2431">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="2433">
             <Style id="2438">
@@ -7745,11 +7745,11 @@
         <ScreenOverlay id="2700">
             <name>Legend</name>
             <Icon id="2701">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="2703">
             <Style id="2708">
@@ -8520,11 +8520,11 @@
         <ScreenOverlay id="2970">
             <name>Legend</name>
             <Icon id="2971">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="2973">
             <Style id="2978">
@@ -9295,11 +9295,11 @@
         <ScreenOverlay id="3240">
             <name>Legend</name>
             <Icon id="3241">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="3243">
             <Style id="3248">
@@ -10070,11 +10070,11 @@
         <ScreenOverlay id="3510">
             <name>Legend</name>
             <Icon id="3511">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="3513">
             <Style id="3518">
@@ -10845,11 +10845,11 @@
         <ScreenOverlay id="3780">
             <name>Legend</name>
             <Icon id="3781">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="3783">
             <Style id="3788">
@@ -11620,11 +11620,11 @@
         <ScreenOverlay id="4050">
             <name>Legend</name>
             <Icon id="4051">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="4053">
             <Style id="4058">
@@ -12395,11 +12395,11 @@
         <ScreenOverlay id="4320">
             <name>Legend</name>
             <Icon id="4321">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="4323">
             <Style id="4328">
@@ -13170,11 +13170,11 @@
         <ScreenOverlay id="4590">
             <name>Legend</name>
             <Icon id="4591">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="4593">
             <Style id="4598">
@@ -13945,11 +13945,11 @@
         <ScreenOverlay id="4860">
             <name>Legend</name>
             <Icon id="4861">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="4863">
             <Style id="4868">
@@ -14720,11 +14720,11 @@
         <ScreenOverlay id="5130">
             <name>Legend</name>
             <Icon id="5131">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="5133">
             <Style id="5138">
@@ -15495,11 +15495,11 @@
         <ScreenOverlay id="5400">
             <name>Legend</name>
             <Icon id="5401">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="5403">
             <Style id="5408">
@@ -16270,11 +16270,11 @@
         <ScreenOverlay id="5670">
             <name>Legend</name>
             <Icon id="5671">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="5673">
             <Style id="5678">
@@ -17045,11 +17045,11 @@
         <ScreenOverlay id="5940">
             <name>Legend</name>
             <Icon id="5941">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="5943">
             <Style id="5948">
@@ -17820,11 +17820,11 @@
         <ScreenOverlay id="6210">
             <name>Legend</name>
             <Icon id="6211">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="6213">
             <Style id="6218">
@@ -18595,11 +18595,11 @@
         <ScreenOverlay id="6480">
             <name>Legend</name>
             <Icon id="6481">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="6483">
             <Style id="6488">
@@ -19370,11 +19370,11 @@
         <ScreenOverlay id="6750">
             <name>Legend</name>
             <Icon id="6751">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="6753">
             <Style id="6758">
@@ -20145,11 +20145,11 @@
         <ScreenOverlay id="7020">
             <name>Legend</name>
             <Icon id="7021">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="7023">
             <Style id="7028">
@@ -20920,11 +20920,11 @@
         <ScreenOverlay id="7290">
             <name>Legend</name>
             <Icon id="7291">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="7293">
             <Style id="7298">
@@ -21695,11 +21695,11 @@
         <ScreenOverlay id="7560">
             <name>Legend</name>
             <Icon id="7561">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="7563">
             <Style id="7568">
@@ -22470,11 +22470,11 @@
         <ScreenOverlay id="7830">
             <name>Legend</name>
             <Icon id="7831">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="7833">
             <Style id="7838">
@@ -23245,11 +23245,11 @@
         <ScreenOverlay id="8100">
             <name>Legend</name>
             <Icon id="8101">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="8103">
             <Style id="8108">
@@ -24020,11 +24020,11 @@
         <ScreenOverlay id="8370">
             <name>Legend</name>
             <Icon id="8371">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="8373">
             <Style id="8378">
@@ -24795,11 +24795,11 @@
         <ScreenOverlay id="8640">
             <name>Legend</name>
             <Icon id="8641">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="8643">
             <Style id="8648">
@@ -25570,11 +25570,11 @@
         <ScreenOverlay id="8910">
             <name>Legend</name>
             <Icon id="8911">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="8913">
             <Style id="8918">
@@ -26345,11 +26345,11 @@
         <ScreenOverlay id="9180">
             <name>Legend</name>
             <Icon id="9181">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="9183">
             <Style id="9188">
@@ -27120,11 +27120,11 @@
         <ScreenOverlay id="9450">
             <name>Legend</name>
             <Icon id="9451">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="9453">
             <Style id="9458">
@@ -27895,11 +27895,11 @@
         <ScreenOverlay id="9720">
             <name>Legend</name>
             <Icon id="9721">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="9723">
             <Style id="9728">
@@ -28670,11 +28670,11 @@
         <ScreenOverlay id="9990">
             <name>Legend</name>
             <Icon id="9991">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="9993">
             <Style id="9998">
@@ -29445,11 +29445,11 @@
         <ScreenOverlay id="10260">
             <name>Legend</name>
             <Icon id="10261">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="10263">
             <Style id="10268">
@@ -30220,11 +30220,11 @@
         <ScreenOverlay id="10530">
             <name>Legend</name>
             <Icon id="10531">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="10533">
             <Style id="10538">
@@ -30995,11 +30995,11 @@
         <ScreenOverlay id="10800">
             <name>Legend</name>
             <Icon id="10801">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="10803">
             <Style id="10808">
@@ -31770,11 +31770,11 @@
         <ScreenOverlay id="11070">
             <name>Legend</name>
             <Icon id="11071">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="11073">
             <Style id="11078">
@@ -32545,11 +32545,11 @@
         <ScreenOverlay id="11340">
             <name>Legend</name>
             <Icon id="11341">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="11343">
             <Style id="11348">
@@ -33320,11 +33320,11 @@
         <ScreenOverlay id="11610">
             <name>Legend</name>
             <Icon id="11611">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="11613">
             <Style id="11618">
@@ -34095,11 +34095,11 @@
         <ScreenOverlay id="11880">
             <name>Legend</name>
             <Icon id="11881">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="11883">
             <Style id="11888">
@@ -34870,11 +34870,11 @@
         <ScreenOverlay id="12150">
             <name>Legend</name>
             <Icon id="12151">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="12153">
             <Style id="12158">
@@ -35645,11 +35645,11 @@
         <ScreenOverlay id="12420">
             <name>Legend</name>
             <Icon id="12421">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="12423">
             <Style id="12428">
@@ -36420,11 +36420,11 @@
         <ScreenOverlay id="12690">
             <name>Legend</name>
             <Icon id="12691">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="12693">
             <Style id="12698">
@@ -37195,11 +37195,11 @@
         <ScreenOverlay id="12960">
             <name>Legend</name>
             <Icon id="12961">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="12963">
             <Style id="12968">
@@ -37970,11 +37970,11 @@
         <ScreenOverlay id="13230">
             <name>Legend</name>
             <Icon id="13231">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="13233">
             <Style id="13238">
@@ -38745,11 +38745,11 @@
         <ScreenOverlay id="13500">
             <name>Legend</name>
             <Icon id="13501">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="13503">
             <Style id="13508">
@@ -39520,11 +39520,11 @@
         <ScreenOverlay id="13770">
             <name>Legend</name>
             <Icon id="13771">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="13773">
             <Style id="13778">
@@ -40295,11 +40295,11 @@
         <ScreenOverlay id="14040">
             <name>Legend</name>
             <Icon id="14041">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="14043">
             <Style id="14048">
@@ -41070,11 +41070,11 @@
         <ScreenOverlay id="14310">
             <name>Legend</name>
             <Icon id="14311">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="14313">
             <Style id="14318">
@@ -41845,11 +41845,11 @@
         <ScreenOverlay id="14580">
             <name>Legend</name>
             <Icon id="14581">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="14583">
             <Style id="14588">
@@ -42620,11 +42620,11 @@
         <ScreenOverlay id="14850">
             <name>Legend</name>
             <Icon id="14851">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="14853">
             <Style id="14858">
@@ -43395,11 +43395,11 @@
         <ScreenOverlay id="15120">
             <name>Legend</name>
             <Icon id="15121">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="15123">
             <Style id="15128">
@@ -44170,11 +44170,11 @@
         <ScreenOverlay id="15390">
             <name>Legend</name>
             <Icon id="15391">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="15393">
             <Style id="15398">
@@ -44945,11 +44945,11 @@
         <ScreenOverlay id="15660">
             <name>Legend</name>
             <Icon id="15661">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="15663">
             <Style id="15668">
@@ -45720,11 +45720,11 @@
         <ScreenOverlay id="15930">
             <name>Legend</name>
             <Icon id="15931">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="15933">
             <Style id="15938">
@@ -46495,11 +46495,11 @@
         <ScreenOverlay id="16200">
             <name>Legend</name>
             <Icon id="16201">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="16203">
             <Style id="16208">
@@ -47270,11 +47270,11 @@
         <ScreenOverlay id="16470">
             <name>Legend</name>
             <Icon id="16471">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="16473">
             <Style id="16478">
@@ -48045,11 +48045,11 @@
         <ScreenOverlay id="16740">
             <name>Legend</name>
             <Icon id="16741">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="16743">
             <Style id="16748">
@@ -48820,11 +48820,11 @@
         <ScreenOverlay id="17010">
             <name>Legend</name>
             <Icon id="17011">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="17013">
             <Style id="17018">
@@ -49595,11 +49595,11 @@
         <ScreenOverlay id="17280">
             <name>Legend</name>
             <Icon id="17281">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="17283">
             <Style id="17288">
@@ -50370,11 +50370,11 @@
         <ScreenOverlay id="17550">
             <name>Legend</name>
             <Icon id="17551">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="17553">
             <Style id="17558">
@@ -51145,11 +51145,11 @@
         <ScreenOverlay id="17820">
             <name>Legend</name>
             <Icon id="17821">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="17823">
             <Style id="17828">
@@ -51920,11 +51920,11 @@
         <ScreenOverlay id="18090">
             <name>Legend</name>
             <Icon id="18091">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="18093">
             <Style id="18098">
@@ -52695,11 +52695,11 @@
         <ScreenOverlay id="18360">
             <name>Legend</name>
             <Icon id="18361">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="18363">
             <Style id="18368">
@@ -53470,11 +53470,11 @@
         <ScreenOverlay id="18630">
             <name>Legend</name>
             <Icon id="18631">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="18633">
             <Style id="18638">
@@ -54245,11 +54245,11 @@
         <ScreenOverlay id="18900">
             <name>Legend</name>
             <Icon id="18901">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="18903">
             <Style id="18908">
@@ -55020,11 +55020,11 @@
         <ScreenOverlay id="19170">
             <name>Legend</name>
             <Icon id="19171">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="19173">
             <Style id="19178">
@@ -55795,11 +55795,11 @@
         <ScreenOverlay id="19440">
             <name>Legend</name>
             <Icon id="19441">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="19443">
             <Style id="19448">
@@ -56570,11 +56570,11 @@
         <ScreenOverlay id="19710">
             <name>Legend</name>
             <Icon id="19711">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="19713">
             <Style id="19718">
@@ -57345,11 +57345,11 @@
         <ScreenOverlay id="19980">
             <name>Legend</name>
             <Icon id="19981">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="19983">
             <Style id="19988">
@@ -58120,11 +58120,11 @@
         <ScreenOverlay id="20250">
             <name>Legend</name>
             <Icon id="20251">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="20253">
             <Style id="20258">
@@ -58895,11 +58895,11 @@
         <ScreenOverlay id="20520">
             <name>Legend</name>
             <Icon id="20521">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="20523">
             <Style id="20528">
@@ -59670,11 +59670,11 @@
         <ScreenOverlay id="20790">
             <name>Legend</name>
             <Icon id="20791">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="20793">
             <Style id="20798">
@@ -60445,11 +60445,11 @@
         <ScreenOverlay id="21060">
             <name>Legend</name>
             <Icon id="21061">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="21063">
             <Style id="21068">
@@ -61220,11 +61220,11 @@
         <ScreenOverlay id="21330">
             <name>Legend</name>
             <Icon id="21331">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="21333">
             <Style id="21338">
@@ -61995,11 +61995,11 @@
         <ScreenOverlay id="21600">
             <name>Legend</name>
             <Icon id="21601">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="21603">
             <Style id="21608">
@@ -62770,11 +62770,11 @@
         <ScreenOverlay id="21870">
             <name>Legend</name>
             <Icon id="21871">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="21873">
             <Style id="21878">
@@ -63545,11 +63545,11 @@
         <ScreenOverlay id="22140">
             <name>Legend</name>
             <Icon id="22141">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="22143">
             <Style id="22148">
@@ -64320,11 +64320,11 @@
         <ScreenOverlay id="22410">
             <name>Legend</name>
             <Icon id="22411">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="22413">
             <Style id="22418">
@@ -65095,11 +65095,11 @@
         <ScreenOverlay id="22680">
             <name>Legend</name>
             <Icon id="22681">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="22683">
             <Style id="22688">
@@ -65870,11 +65870,11 @@
         <ScreenOverlay id="22950">
             <name>Legend</name>
             <Icon id="22951">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="22953">
             <Style id="22958">
@@ -66645,11 +66645,11 @@
         <ScreenOverlay id="23220">
             <name>Legend</name>
             <Icon id="23221">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="23223">
             <Style id="23228">
@@ -67420,11 +67420,11 @@
         <ScreenOverlay id="23490">
             <name>Legend</name>
             <Icon id="23491">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="23493">
             <Style id="23498">
@@ -68195,11 +68195,11 @@
         <ScreenOverlay id="23760">
             <name>Legend</name>
             <Icon id="23761">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="23763">
             <Style id="23768">
@@ -68970,11 +68970,11 @@
         <ScreenOverlay id="24030">
             <name>Legend</name>
             <Icon id="24031">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="24033">
             <Style id="24038">
@@ -69745,11 +69745,11 @@
         <ScreenOverlay id="24300">
             <name>Legend</name>
             <Icon id="24301">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
         <Placemark id="24303">
             <Style id="24308">
@@ -70520,11 +70520,11 @@
         <ScreenOverlay id="24570">
             <name>Legend</name>
             <Icon id="24571">
-                <href>http://drive.google.com/uc?export=view&amp;id=1BElOgU_l25w9IpJK6L223G7e5SHhNHvd</href>
+                <href>https://sensodyne.github.io/image-hosting/legend.png</href>
             </Icon>
             <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-            <screenXY x="300" y="700" xunits="pixels" yunits="insetPixels"/>
-            <size x="-1" y="-1" xunits="fraction" yunits="fraction"/>
+            <screenXY x="300" y="400" xunits="pixels" yunits="insetPixels"/>
+            <size x="450" y="500" xunits="pixels" yunits="pixels"/>
         </ScreenOverlay>
     </Document>
 </kml>
