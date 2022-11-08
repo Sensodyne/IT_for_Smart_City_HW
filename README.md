@@ -1,9 +1,5 @@
 # IT for Smart City
 
-Date Created: November 7, 2022 11:36 PM
-
-# IT for Smart City
-
 > 데이터 분석을 활용하여 스마트시티 분야의 크고 작은 문제 해결을 실습하는 수업.
 > 
 
