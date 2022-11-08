@@ -28,7 +28,7 @@ Date Created: November 7, 2022 11:36 PM
     
     - Project 5: 주성분분석(PCA)을 통한 차원 축소 및 3D 데이터의 분석
     
-    ![Untitled](figs/Untitled%201.png)
+        ![Untitled](figs/Untitled%201.png)
     
 
 ## 3. 성과 및 배운점
